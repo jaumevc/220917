@@ -5,8 +5,14 @@ public class App {
 		// TODO Auto-generated method stub
 		System.out.println("collons");
 		System.out.println("collons de mico");
+
 		
 		System.out.println("collons de mono");
+
+		System.out.println("collons de ximpanze");
+		
+
+
 	}
 
 }
